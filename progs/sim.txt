@@ -1,0 +1,3 @@
+this is a sample program
+to show file operations in GO
+strictly happened
